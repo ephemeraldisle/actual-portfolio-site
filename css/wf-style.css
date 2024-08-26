@@ -2950,13 +2950,12 @@ label {
 
   .body {
     overflow: visible;
-      background-image: linear-gradient(270deg,
-          #e81567,
-          #097763c2 25%,
-          #1d8fa9 50%,
-          #045 75%,
-          #431493
-    );
+    background-image: linear-gradient(270deg,
+        #e81567,
+        #097763c2 25%,
+        #1d8fa9 50%,
+        #045 75%,
+        #431493);
   }
 
   .name_header {
