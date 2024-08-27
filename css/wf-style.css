@@ -2057,7 +2057,7 @@ label {
   flex-flow: column;
   grid-auto-columns: 1fr;
   grid-column-gap: 180px;
-  grid-row-gap: 180px;
+  grid-row-gap: 150px;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto auto;
   height: 100%;
@@ -2399,7 +2399,7 @@ label {
 
 
   .button {
-    margin-top: 76px;
+    margin-top: 36px;
     padding-left: 3rem;
     padding-right: 3rem;
   }
@@ -2678,7 +2678,7 @@ label {
   }
 
   .text-size-large {
-    font-size: 1.25rem;
+    font-size: 1.5rem;
   }
 
   .background-color-secondary.opening-blurb-background {
@@ -2687,7 +2687,7 @@ label {
   }
 
   .text-size-medium {
-    font-size: 4.5vw;
+    font-size: 30px;
     white-space: nowrap;
   }
 
@@ -3064,7 +3064,7 @@ label {
   }
 
   .text-size-large {
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight: 100;
   }
 
@@ -3075,7 +3075,7 @@ label {
   }
 
   .text-size-medium {
-    font-size: 4.75vw;
+    font-size: 20px;
   }
 
   .max-width-medium {
@@ -3307,10 +3307,10 @@ label {
   }
 
   .opening-blurb {
-    grid-column-gap: 0.5rem;
-    grid-row-gap: 0.5rem;
-    padding-bottom: 1rem;
-    padding-top: 1rem;
+    grid-column-gap: 0.75rem;
+    grid-row-gap: 0.75rem;
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
   }
 
   .flex-block-6 {
