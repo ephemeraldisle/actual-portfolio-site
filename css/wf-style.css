@@ -1140,14 +1140,15 @@ label {
   background-image: linear-gradient(#522d47a1,
       #090513bb 3%,
       #090513ef 6%,
-      #090513bb 12%,
+      #090513bb 10%,
+      #f0b641c0 15%,
       #097763b3 26%,
       #ab5130cc 31%,
       #b0b318bf 40%,
       #045c 48%,
       #960f4cb3 66%,
       #4c00e4a9 81%,
-      #0b0418ab);
+      #0b0418ab) !important;
   max-width: 100%;
   backdrop-filter: blur(3px);
 }

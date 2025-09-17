@@ -66,7 +66,7 @@ body {
       #045c 48%,
       #960f4cb3 66%,
       #4c00e4a9 81%,
-      #0b0418ab);
+      #0b0418ab) !important;
   max-width: 100%;
   backdrop-filter: blur(3px);
 }
