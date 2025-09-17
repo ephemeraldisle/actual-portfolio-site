@@ -14,7 +14,7 @@
   height: 100%;
 }
 
-/* 
+/*
 body {
   min-height: 100vh;
   display: flex;
@@ -58,7 +58,8 @@ body {
   background-image: linear-gradient(#522d47a1,
       #090513bb 3%,
       #090513ef 6%,
-      #090513bb 12%,
+      #090513bb 10%,
+      #f0b641c0 15%,
       #097763b3 26%,
       #ab5130cc 31%,
       #b0b318bf 40%,
@@ -533,6 +534,4 @@ body {
 
 
 
-.w-dyn-repeater-item{
-  
-}
+.w-dyn-repeater-item {}
